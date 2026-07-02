@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 
 
 ************************
+<!-- BLOG-POST-LIST:START -->
+<!-- 이 주석 사이에 최신 글 목록이 자동으로 추가됩니다. -->
+<!-- BLOG-POST-LIST:END -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhanull&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhanull&layout=compact&theme=tokyonight)

@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 - [Jekyll로 블로그 환경 세팅하기](https://skyhanull.github.io/2026/05/24/jekyll-blog-setup/)
 - [yoonlog를 시작하며](https://skyhanull.github.io/2026/04/24/starting-yoonlog/)
 <!-- BLOG-POST-LIST:END -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhanull&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhanull&layout=compact&theme=tokyonight)

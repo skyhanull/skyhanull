@@ -28,7 +28,6 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Blogs </h2> 
 <!-- BLOG-POST-LIST:START -->
-
 - [백엔드 - 스프링의 3요소](https://skyhanull.github.io/2026/05/31/spring1/)
 - [테스트](https://skyhanull.github.io/2026/05/25/test12/)
 - [테스트11111](https://skyhanull.github.io/2026/05/25/test123/)

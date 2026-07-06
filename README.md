@@ -25,6 +25,6 @@
 - [백엔드 - 스프링의 3요소](https://skyhanull.github.io/2026/05/31/spring1/)
 - [테스트](https://skyhanull.github.io/2026/05/25/test12/)
 - [테스트11111](https://skyhanull.github.io/2026/05/25/test123/)
-- [Jekyll로 블로그 환경 세팅하기](https://skyhanull.github.io/2026/05/24/jekyll-blog-setup/)
+- [Jekyll 블로그를 만들고 Notion과 연동하기까지](https://skyhanull.github.io/2026/05/24/jekyll-blog-setup/)
 - [yoonlog를 시작하며](https://skyhanull.github.io/2026/04/24/starting-yoonlog/)
 <!-- BLOG-POST-LIST:END -->
